@@ -1,0 +1,37 @@
+# Ignore VS Code workspace settings
+.vscode/
+
+# Build artifacts
+build/
+bin/
+out/
+
+# Object and binary files
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+
+# Workspace file
+*.code-workspace
